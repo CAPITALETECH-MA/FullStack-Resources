@@ -94,6 +94,7 @@
 
 - [Firecrawl](https://www.firecrawl.dev/)
 - [UseScraper](https://usescraper.com/)
+- [Egoist](https://github.com/egoist/sitefetch)
 
 ## File Upload Solutions
 
@@ -117,3 +118,7 @@
 - [Custom Instructions](https://github.com/JeredBlu/custom-instructions)
 - [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses?tab=readme-ov-file)
 - [FDW Stripe Catalog](https://fdw.dev/catalog/stripe/)
+
+## Docs 
+
+-[AI-sdk](https://www.aihero.dev/tool-calls-with-vercel-ai-sdk)
