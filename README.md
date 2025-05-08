@@ -16,6 +16,10 @@
 - [Skiper UI](https://skiper-ui.com/)
 - [Kibo UI](https://www.kibo-ui.com/components/announcement) - Announcement components
 - [Lukacho UI](https://ui.lukacho.com/)
+- [Assistant UI](https://www.assistant-ui.com/)
+- [Blocks](https://blocks.so/)
+- [StyleGlide](https://www.styleglide.ai/)
+- [Animate UI](https://animate-ui.com/docs/components/scroll-progress)
 
 ### Animation & Motion
 
@@ -24,6 +28,7 @@
 - [Animata](https://animata.design/)
 - [Hover.dev](https://www.hover.dev/) - Animated UI Components for React and TailwindCSS
 - [Cursify](https://cursify.vercel.app/) - Cursor animations
+- [Anime.js](https://animejs.com/)
 
 ### UI Resources & Tools
 
@@ -48,6 +53,7 @@
 
 ### AI Services
 
+- [Devin](https://devin.ai/)
 - [Bolt](https://bolt.new/)
 - [E2B Fragments](https://fragments.e2b.dev/)
 - [Trae AI](https://www.trae.ai/)
@@ -75,8 +81,18 @@
 - [Cline MCP](https://docs.cline.bot/mcp-servers/mcp-server-from-scratch)
 - [Glama MCP](https://glama.ai/mcp/servers)
 - [Composio MCP](https://mcp.composio.dev/)
+- [Deepwiki MCP](https://github.com/regenrek/deepwiki-mcp)
+- [Context7](https://github.com/upstash/context7)
+- [12 Factor Agents](https://github.com/humanlayer/12-factor-agents)
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master)
+- [PayloadCMS MCP](https://github.com/Matmax-Worldwide/payloadcmsmcp)
 
 ## Database & Data Management
+
+### Supabase
+
+- [Supabase](https://supabase.com/)
+- [Database Build](https://database.build/)
 
 ### Drizzle ORM
 
@@ -119,6 +135,10 @@
 - [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses?tab=readme-ov-file)
 - [FDW Stripe Catalog](https://fdw.dev/catalog/stripe/)
 
-## Docs 
+## Docs
 
--[AI-sdk](https://www.aihero.dev/tool-calls-with-vercel-ai-sdk)
+- [AI-sdk](https://www.aihero.dev/tool-calls-with-vercel-ai-sdk)
+- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Hacker News](https://news.ycombinator.com/item?id=43699271)
+- [LLM Docs](https://llm-docs.com/)
+- [PayloadCMS](https://payloadcms.com/docs/getting-started/installation)
